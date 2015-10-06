@@ -2,6 +2,10 @@ package com.sample.cindy.networkinfo;
 
 import android.telephony.TelephonyManager;
 
+/**
+ * @author Cindy
+ * */
+
 public class NetworkType {
 
     /** unknown */

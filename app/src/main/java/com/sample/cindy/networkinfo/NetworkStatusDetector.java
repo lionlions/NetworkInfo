@@ -12,6 +12,10 @@ import android.os.IBinder;
 import android.os.Message;
 import android.telephony.TelephonyManager;
 
+/**
+ * @author Cindy
+ * */
+
 public class NetworkStatusDetector extends Service {
 
     private final String TAG = getClass().getSimpleName();
